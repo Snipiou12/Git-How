@@ -17,3 +17,6 @@ puis faire un merge --> git merge print
 on peut ensuite le supprimer en local -->git branch -D print
 ensuite sur le serveur --> git push origin -d print
 ---
+
+Récuperer un dépot de github a notre machine local
+git clone (https://github.com/videojs/video.js.git)
