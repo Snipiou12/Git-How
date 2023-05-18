@@ -1,0 +1,19 @@
+Crée et lier notre dépots :
+git init
+git add*
+git commit -m "V0.1"
+git remote add origin https://github.com/Snipiou12/Git-How.git
+--------
+git branch --> Afficher toutes les branches
+git branch name --> cree
+git branch -D name --> supprimer
+git checkout name --> se déplacer dans une branche ou un ancien commmit
+git commit -m "MESSAGE explicatif"
+git push -u origin master-->push une branche dans le serveur
+---
+Pour fussioner des branches il faut :
+ce possitionner dans la branche master --> git branch master
+puis faire un merge --> git merge print
+on peut ensuite le supprimer en local -->git branch -D print
+ensuite sur le serveur --> git push origin -d print
+---
